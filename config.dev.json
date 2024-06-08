@@ -50,7 +50,7 @@
 			"apiKey": ""
 		},
 		"gRecaptcha": {
-			"siteKey": "6Lc4UnYpAAAAAFvuk02fehO76XoXfHVGS7PgDCOH",
+			"siteKey": "",
 			"secretKey": "6Lc4UnYpAAAAADGHk5NSQWAcKtsXEVYF2Zy_ohkA"
 		}
 	},
